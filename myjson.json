@@ -6,5 +6,5 @@
    {"firstName":"Shahzeb","lastName":"Khan"},
    {"firstName":"Bilal","lastName":"Khan"},
    {"firstName":"Ahmed","lastName":"Khan"},
-   {"img":"https://cdn1.vectorstock.com/i/1000x1000/77/50/man-person-thinking-icon-vector-10457750.jpg","Name":"person"}
+   {"firstName":"Update name","lastName":"newName"}
 ]}
